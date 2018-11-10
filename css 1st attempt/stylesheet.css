@@ -1,0 +1,46 @@
+body{
+color:green;
+font-family:ink free;
+
+}
+
+
+
+
+h1{ 
+color: green; 
+background-color:purple;
+font-size: 25px;
+font-family: helvetica;
+border: 10px solid black;
+
+}
+
+p.bittu{ 
+color: blue; 
+font-size: 25px;
+font-family: helvetica;
+font-weight:bolder;
+background-color:red;
+padding:20px;
+border-width:2px;
+border-style:solid;
+border-color:yellow;
+background-image: url(blue-background-of-dots.jpg) ;
+}
+
+p.shobit{ 
+text-decoration:underline;
+}
+
+.imagec
+{
+
+display:block;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+
+

@@ -1,0 +1,25 @@
+li{
+
+	display: inline;
+}
+
+ul{
+
+	padding:0;
+	list-style-type: none;
+}
+
+a{
+text-decoration: none;
+background-color: indigo;
+border:2px solid green;
+border-radius: 2px;
+color: pink;
+box-sizing: border-box;
+margin-right: 10px;
+height: 500px;
+line-height: 200px;
+padding: 20px;
+text-align: center;
+
+}

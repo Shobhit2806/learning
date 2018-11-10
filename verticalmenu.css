@@ -1,0 +1,30 @@
+ul{
+
+list-style: none;
+padding: 0px;
+margin:0px;
+
+}
+
+ul li a{
+
+text-decoration:none;
+font-family: georgia;
+background-color:red;
+color:white;
+display:block;
+width: 80px;
+padding:10px;
+margin:5px;
+text-align: center;
+height:25px; 
+line-height:4px;
+}
+
+
+ul li a:hover{
+
+background-color:pink;
+color:blue; 
+
+}

@@ -1,0 +1,30 @@
+body{
+background-color:#A5CAEB;	
+
+}
+
+#theform{
+display: table;
+padding:15px;
+background-color: white;
+border: solid 1px black;
+border-radius:10px;
+}
+
+.row{
+display:table-row;
+}
+
+
+
+.row label{
+display:table-cell;
+padding:2px;
+}
+
+
+.row input{
+display:table-cell;
+padding:2px;
+}
+

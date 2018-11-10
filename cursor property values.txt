@@ -1,0 +1,22 @@
+cursor propert values
+
+
+deafult
+inherit
+auto
+URL
+crosshair
+pointer
+move
+text
+help
+hand
+no-drop
+alias
+progress
+wait
+grab
+grabbing
+copy
+spinning
+none
