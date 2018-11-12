@@ -1,4 +1,4 @@
-cursor propert values
+cursor propert values are as following
 
 
 deafult
